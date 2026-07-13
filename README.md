@@ -1,6 +1,8 @@
 # LNA-with-Low-Input-Impedance-Using-Common-Base-BJT
 High-Performance, Low-Cost LNA for Low-Field MRI Preamplifier Decoupling.
 
+<img width="1724" height="938" alt="LII_LNA" src="https://github.com/user-attachments/assets/3dc7c788-40e9-42fa-9034-46845d0c1fd7" />
+
 Open-source Low Input Impedance preamplifier for 3 MHz and 21.2 MHz MRI receive coils.
 
 This repository contains the production-ready design files for a Low Noise Amplifier specifically designed for preamplifier decoupling in low-field MRI systems.
